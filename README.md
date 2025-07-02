@@ -1,6 +1,6 @@
 📝 Note-Taking Application
 
-A simple note-taking app built with FastAPI and a local UI.
+A simple note-taking app with simple UI.
 
 📷 Screenshot
 ![App Screenshot](https://github.com/Swethancyber/note-taking-application/blob/main/img1..png?raw=true)
